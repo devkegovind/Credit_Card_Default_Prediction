@@ -1,0 +1,8 @@
+[2023-06-03 15:53:06,131] 186 werkzeug - WARNING -  * Debugger is active!
+[2023-06-03 15:53:06,145] 186 werkzeug - INFO -  * Debugger PIN: 286-938-149
+[2023-06-03 15:53:25,281] 186 werkzeug - INFO - 192.168.0.45 - - [03/Jun/2023 15:53:25] "GET / HTTP/1.1" 200 -
+[2023-06-03 15:53:25,385] 186 werkzeug - INFO - 192.168.0.45 - - [03/Jun/2023 15:53:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-06-03 15:53:36,188] 186 werkzeug - INFO - 192.168.0.45 - - [03/Jun/2023 15:53:36] "GET /predict HTTP/1.1" 200 -
+[2023-06-03 15:58:45,218] 109 root - INFO - Dataframe Gathered
+[2023-06-03 15:58:45,958] 186 werkzeug - INFO - 192.168.0.45 - - [03/Jun/2023 15:58:45] "POST /predict HTTP/1.1" 200 -
+[2023-06-03 16:00:46,809] 186 werkzeug - INFO -  * Detected change in 'd:\\credit_card_int\\src\\pipeline\\prediction_pipeline.py', reloading
