@@ -1,0 +1,7 @@
+[2023-06-23 19:25:44,544] 186 werkzeug - WARNING -  * Debugger is active!
+[2023-06-23 19:25:44,552] 186 werkzeug - INFO -  * Debugger PIN: 119-021-130
+[2023-06-23 19:28:27,722] 186 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2023 19:28:27] "GET / HTTP/1.1" 200 -
+[2023-06-23 19:28:27,843] 186 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2023 19:28:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2023-06-23 19:29:32,475] 186 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2023 19:29:32] "GET /predict HTTP/1.1" 200 -
+[2023-06-23 19:33:24,168] 109 root - INFO - Dataframe Gathered
+[2023-06-23 19:33:24,812] 186 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2023 19:33:24] "POST /predict HTTP/1.1" 200 -
